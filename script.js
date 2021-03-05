@@ -19,6 +19,6 @@ function logResults(name) {
 }
 
 function f() {
-    x = 23;
+    x = 22;
     let x;
 }
